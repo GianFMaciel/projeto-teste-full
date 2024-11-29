@@ -1,0 +1,24 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+}
+h2 {
+    color: black;
+}
+.recepcao-usuario {
+    display: grid;
+    grid-template-columns: 1st;
+    grid-template-rows: auto;
+    justify-content: center;
+    margin: 0;
+}
+.fotos-mural {
+    margin: 10px 0;
+}
+.contatos {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: center;
+    margin: 0;
+}
