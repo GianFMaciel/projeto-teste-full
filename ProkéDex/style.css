@@ -1,0 +1,27 @@
+body {
+    background-color: #282828;
+    font-family: "Poppins", sans-serif;
+    margin: 0 auto;
+    max-width: 1120px;
+    background: linear-gradient(150deg, #000, #9e00ff);
+    background-size: 120% 120%;
+}
+.topo {
+    font-size: 90px;
+    padding-left: 30%;
+}
+input {
+    font-size: 40px;
+}
+button {
+    font-size: 30px;
+}
+body div {
+    font-size: 25px;
+}
+body img {
+    object-fit: cover;  
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+}
